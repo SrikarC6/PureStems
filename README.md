@@ -25,18 +25,10 @@ PureStems splits any song into its four core stems — Vocals, Drums, Bass, and 
 
 ## Screenshots
 
-<!-- Add screenshots to the assets/ folder and uncomment:
-
-![Home Screen](assets/home-screen.png)
-![Stem Player](assets/stem-player.png)
-![Processing Overlay](assets/processing-overlay.png)
-
--->
-
 ![Main Menu](assets/main-menu.png)
 ![Loading Animation](assets/loading-screen.png)
 ![Stem Volume Manipulation Menu](assets/stem-manip-menu.png)
-![Volume Manipulation with Stem Snipping](assets/menu with stem snipping.png)
+![Volume Manipulation with Stem Snipping](assets/manip-with-stem-snipping.png)
 
 ---
 
