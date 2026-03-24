@@ -129,12 +129,9 @@ PureStems splits any song into its four core stems — Vocals, Drums, Bass, and 
 
 ## Roadmap
 
-- [ ] Drag-and-drop file import on the home screen
-- [ ] Per-stem solo and mute buttons
-- [ ] Stem export as individual `.wav` files
-- [ ] M4A / AAC output format option for exported snippets
-- [ ] Persistent playback history
-- [ ] Mini-player mode
+- [ ] Drag-and-drop capabilities
+- [ ] Per-stem isolate and mute buttons
+- [ ] Independent stem download
 
 ---
 
